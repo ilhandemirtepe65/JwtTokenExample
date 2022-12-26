@@ -1,4 +1,4 @@
-# Jwt TokenExample With Redis
+# Jwt TokenExample ve Redis
  * Bu projede .Net Core 6.0 kullanılmıştır
  * Kullanıcı login değilse Product üzerinde işlem yapamayacak.Eğer login olursa sonra product üzerinde işlem yapacak
  * Redis ne zaman ve nasıl kullanılmalıdır
